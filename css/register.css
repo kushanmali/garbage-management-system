@@ -1,0 +1,19 @@
+.navbar-custom {
+    background-image: linear-gradient(to right, #007bff, #2ecc71);
+}
+
+.register-card {
+    width: 500px;
+    margin: auto;
+
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
+
+.footer {
+    background: linear-gradient(to right, #667eea, #764ba2);
+  }
+
